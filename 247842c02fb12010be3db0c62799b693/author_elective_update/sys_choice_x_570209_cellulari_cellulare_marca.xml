@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="marca" table="x_570209_cellulari_cellulare" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>marca</element>
+            <name>x_570209_cellulari_cellulare</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-14 13:14:42</sys_created_on>
+            <sys_id>e84a86042fb12010be3db0c62799b608</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>marca</sys_name>
+            <sys_package display_value="Cellulari" source="x_570209_cellulari">247842c02fb12010be3db0c62799b693</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cellulari">247842c02fb12010be3db0c62799b693</sys_scope>
+            <sys_update_name>sys_choice_x_570209_cellulari_cellulare_marca</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-14 13:14:42</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marca</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apple</label>
+            <language>en</language>
+            <name>x_570209_cellulari_cellulare</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-14 13:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c4a86042fb12010be3db0c62799b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-14 13:14:42</sys_updated_on>
+            <value>apple</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marca</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Huawei</label>
+            <language>en</language>
+            <name>x_570209_cellulari_cellulare</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-14 13:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e04a86042fb12010be3db0c62799b60e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-14 13:14:42</sys_updated_on>
+            <value>huawei</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marca</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LG</label>
+            <language>en</language>
+            <name>x_570209_cellulari_cellulare</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-14 13:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec4a86042fb12010be3db0c62799b617</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-14 13:14:42</sys_updated_on>
+            <value>lg</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marca</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Motorola</label>
+            <language>en</language>
+            <name>x_570209_cellulari_cellulare</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-14 13:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>284a86042fb12010be3db0c62799b615</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-14 13:14:42</sys_updated_on>
+            <value>motorola</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marca</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nokia</label>
+            <language>en</language>
+            <name>x_570209_cellulari_cellulare</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-14 13:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>604a86042fb12010be3db0c62799b613</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-14 13:14:42</sys_updated_on>
+            <value>nokia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marca</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Samsung</label>
+            <language>en</language>
+            <name>x_570209_cellulari_cellulare</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-14 13:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac4a86042fb12010be3db0c62799b607</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-14 13:14:42</sys_updated_on>
+            <value>samsung</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marca</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Xiaomi</label>
+            <language>en</language>
+            <name>x_570209_cellulari_cellulare</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-14 13:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a84a86042fb12010be3db0c62799b610</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-14 13:14:42</sys_updated_on>
+            <value>xiaomi</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

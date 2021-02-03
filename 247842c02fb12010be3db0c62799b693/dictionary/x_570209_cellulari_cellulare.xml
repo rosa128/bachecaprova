@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Smartphone" max_length="40" name="x_570209_cellulari_cellulare" sizeclass="4" type="collection">
+        <element label="In produzione" max_length="40" name="in_produzione" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="samsung" label="Marca" max_length="40" name="marca" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Apple" value="apple"/>
+                <element inactive_on_update="false" label="Huawei" value="huawei"/>
+                <element inactive_on_update="false" label="LG" value="lg"/>
+                <element inactive_on_update="false" label="Motorola" value="motorola"/>
+                <element inactive_on_update="false" label="Nokia" value="nokia"/>
+                <element inactive_on_update="false" label="Samsung" value="samsung"/>
+                <element inactive_on_update="false" label="Xiaomi" value="xiaomi"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Modello" max_length="40" name="modello" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" mandatory="true" max_length="40" name="number" type="string"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Prezzo" max_length="20" name="prezzo" type="price"/>
+        <element label="Supporta 5G" max_length="40" name="supporta_5g" type="boolean"/>
+    </element>
+</database>

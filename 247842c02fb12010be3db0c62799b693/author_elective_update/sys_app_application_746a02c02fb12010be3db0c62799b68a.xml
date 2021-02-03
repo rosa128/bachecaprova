@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>app cellulari</description>
+        <device_type>browser</device_type>
+        <hint>app cellulari</hint>
+        <name/>
+        <order/>
+        <roles>x_570209_cellulari.addetto</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-14 13:15:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>746a02c02fb12010be3db0c62799b68a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cellulari</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cellulari" source="x_570209_cellulari">247842c02fb12010be3db0c62799b693</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cellulari">247842c02fb12010be3db0c62799b693</sys_scope>
+        <sys_update_name>sys_app_application_746a02c02fb12010be3db0c62799b68a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-14 13:15:16</sys_updated_on>
+        <title>Cellulari</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cellulari">247842c02fb12010be3db0c62799b693</application>
+        <file_path/>
+        <instance_id>def13766db281bc07e55d5b0cf961981</instance_id>
+        <instance_name>dev51344</instance_name>
+        <name>sys_app_application_746a02c02fb12010be3db0c62799b68a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="">Custom Applications</category><description>app cellulari</description><device_type>browser</device_type><hint>app cellulari</hint><name/><order/><roles>x_570209_cellulari.addetto</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-14 13:15:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>746a02c02fb12010be3db0c62799b68a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cellulari</sys_name><sys_overrides/><sys_package display_value="Cellulari" source="x_570209_cellulari">247842c02fb12010be3db0c62799b693</sys_package><sys_policy/><sys_scope display_value="Cellulari">247842c02fb12010be3db0c62799b693</sys_scope><sys_update_name>sys_app_application_746a02c02fb12010be3db0c62799b68a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-14 13:15:16</sys_updated_on><title>Cellulari</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-759219056</payload_hash>
+        <record_name>Cellulari</record_name>
+        <reverted_from/>
+        <source>6078c2c02fb12010be3db0c62799b6ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-14 13:15:16</sys_created_on>
+        <sys_id>346a02c02fb12010be3db0c62799b68d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177010935b40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-14 13:15:16</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>7c6a02c08eb12010d067c2fd87b5ad8c</update_guid>
+        <update_guid_history>7c6a02c08eb12010d067c2fd87b5ad8c:-759219056</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Cellulari">63fb57ea2fb12010be3db0c62799b665</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-22 13:36:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>11ee2ce617a9475aa1853d9f5c6a7024</sys_id>
+        <sys_metadata>746a02c02fb12010be3db0c62799b68a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cellulari</sys_name>
+        <sys_package display_value="Cellulari" source="x_570209_cellulari">247842c02fb12010be3db0c62799b693</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cellulari">247842c02fb12010be3db0c62799b693</sys_scope>
+        <sys_scope_delete display_value="">054969c308c74b00a11af5ff89679a10</sys_scope_delete>
+        <sys_update_name>sys_app_application_746a02c02fb12010be3db0c62799b68a</sys_update_name>
+        <sys_update_version display_value="sys_app_application_746a02c02fb12010be3db0c62799b68a">346a02c02fb12010be3db0c62799b68d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 13:36:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
